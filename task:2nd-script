@@ -1,0 +1,11 @@
+#output for the second task
+
+navatha@DESKTOP-FG046SE:/mnt/c/Users/Admin/Desktop/$ awk '{print $9}' sample | sort | uniq -c | sort -rn
+  33876 404
+  13330 304
+   4028 200
+    186 206
+     37 403
+      4 416
+      1 0
+navatha@DESKTOP-FG046SE:/mnt/c/Users/Admin/Desktop/$
